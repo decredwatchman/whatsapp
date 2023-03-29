@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    font-family: sans-serif;
+}
+/* nav */
+nav{
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+    border-bottom:2px solid rgba(164, 161, 161, 0.391) ;
+    position: fixed;
+    width: 100%;
+   top:0px;
+   background-color: white;
+   padding-left: 40px;
+}
+.logo{
+    height: 40px;
+}
+.navlist{
+    display: flex;
+    list-style: none;
+}
+.navlist li{
+    padding: 20px;
+    font-size: small;
+}
+/* nav end  */
+
+header{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+.h1 , .h2{
+    width: 50%;
+}
+
+.ads{
+    height: 200px;
+    padding: 30px;
+    background-color: bisque;
+}
+.Premium div{
+    display: flex;
+    padding: 5px 30px;
+
+}
+.Premium div div{
+    width: 50%;
+}
+
+
+
+
+.procedures{
+    background-color: rgba(203, 203, 203, 0.48);
+    padding: 30px;
+    display: flex;
+}
+.procedures div{
+    width: 30%;
+}
+
+.submitNo{
+    background-color: green,blue;
+}
