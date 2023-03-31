@@ -43,20 +43,42 @@ include("header.php");
                                 
                             </tr>
                         </thead>
-                        <tfoot>
-                            <tr>
-                                <th>Download now </th>
-                               
-                            </tr>
-                        </tfoot>
+                   
                         <tbody>
+                        <?php
+$hostname  = "localhost";
+$user     = "root";
+$pass     = "";
+$databasename = "whatsapp";
+// Create connection
+$conn = mysqli_connect($hostname, $user, $pass,$databasename);
+// Check connection
+if (!$conn) {
+    die("Unable to Connect database: " . mysqli_connect_error());
+}
+?>
+                        <?php 
+$sql = "SELECT * FROM contact";
+$result = mysqli_query($conn, $sql);
+while($row = mysqli_fetch_assoc($result))
+
+
+//echo $row["photo"];
+{
+  
+  $names = $row['name'];
+  $about = $row['phone'];
+  //$photo = $row['photo'];
+
+ 
+?> 
                             <tr >
                                 <td><a href="user.png"  download> VCF for wed mar 29 2023</a></td>
                                
                               
                             </tr>
 
-                            
+                         <?php } ?>   
                           
                         </tbody>
                     </table>

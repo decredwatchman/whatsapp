@@ -71,24 +71,41 @@ include("header.php");
 						<div class="gt3-core-button--alignment_inline elementor-element elementor-element-42d950f elementor-widget elementor-widget-gt3-core-button" data-id="42d950f" data-element_type="widget" data-widget_type="gt3-core-button.default">
 				<div class="elementor-widget-container">
 				<div class="gt3_module_button_elementor size_custom alignment_inline button_icon_none hover_type5 rounded">
-		<a class="button_size_elementor_custom alignment_inline border_icon_none hover_type5 btn_icon_position_left" href="#">
+		<a class="button_size_elementor_custom alignment_inline border_icon_none hover_type5 btn_icon_position_left" href="#contact">
 				<span class="gt3_module_button__container">
-											<span class="elementor_gt3_btn_text">Contact Today</span>						<span class="gt3_module_button__cover front"></span>
+											<span class="elementor_gt3_btn_text">submit Contact</span>						<span class="gt3_module_button__cover front"></span>
 						<span class="gt3_module_button__cover back"></span>
                         
 									</span>
                                     
 		</a>
 
+
         
 	</div>
-    
+	
+
+	<br>
+	<div class="gt3_module_button_elementor size_custom alignment_inline button_icon_none hover_type5 rounded">
+		<a class="button_size_elementor_custom alignment_inline border_icon_none hover_type5 btn_icon_position_left" href="download.php">
+				<span class="gt3_module_button__container">
+											<span class="elementor_gt3_btn_text">download</span>						<span class="gt3_module_button__cover front"></span>
+						<span class="gt3_module_button__cover back"></span>
+                        
+									</span>
+                                    
+		</a>
+
+
+        
+	</div>
 
 <script type="application/json" id="settings--42d950f">[]</script>		</div>
 				</div>
 						</div>
 					</div>
 		</div>
+		
 				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-296d26d" data-id="296d26d" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
@@ -102,11 +119,13 @@ include("header.php");
         </a>
 		<h2 class="video-popup__title">Play video</h2>    </div>
 		</div>
+		
 				</div>
 						</div>
 					</div>
                     
 		</div>
+		
         
 								</div>
 					</div>
@@ -149,136 +168,9 @@ include("header.php");
 								</div>
 					</div>
 		</section>
-        <section class="elementor-section elementor-top-section elementor-element elementor-element-317d726 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="317d726" data-element_type="section">
-            <div class="elementor-container elementor-column-gap-default">
-                <div class="elementor-row">
-        <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-ddf49a4" data-id="ddf49a4" data-element_type="column">
-<div class="elementor-column-wrap">
-                <div class="elementor-widget-wrap">
-                    </div>
-        </div>
-</div>
-    <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-b29340b" data-id="b29340b" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-                <div class="elementor-widget-wrap">
-            <div class="elementor-element-custom_font_size elementor-element-custom_font_weight elementor-element elementor-element-7d81fdb elementor-widget elementor-widget-text-editor" data-id="7d81fdb" data-element_type="widget" data-widget_type="text-editor.default">
-    <div class="elementor-widget-container">
-                    <div class="elementor-text-editor elementor-clearfix">
-    <h5>Blog</h5>					</div>
-            </div>
-    </div>
-    <div class="elementor-element elementor-element-52c5e7c elementor-widget elementor-widget-heading" data-id="52c5e7c" data-element_type="widget" data-widget_type="heading.default">
-    <div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">Read Our Lates News</h2>		</div>
-    </div>
-    <div class="elementor-element elementor-element-369b260 elementor-widget elementor-widget-text-editor" data-id="369b260" data-element_type="widget" data-widget_type="text-editor.default">
-    <div class="elementor-widget-container">
-                    <div class="elementor-text-editor elementor-clearfix">
-    <p>Ad nec unum copiosae. Sea ex everti labores, ad option iuvaret qui. Id quo esse nusquam. Eam iriure diceret oporteat.</p>					</div>
-            </div>
-    </div>
-            </div>
-        </div>
-</div>
-    <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-36f43a3" data-id="36f43a3" data-element_type="column">
-<div class="elementor-column-wrap">
-                <div class="elementor-widget-wrap">
-                    </div>
-        </div>
-</div>
-                    </div>
-        </div>
-</section>
-    <section class="elementor-section elementor-top-section elementor-element elementor-element-7c790d5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7c790d5" data-element_type="section">
-            <div class="elementor-container elementor-column-gap-default">
-                <div class="elementor-row">
-        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-27a599a" data-id="27a599a" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-                <div class="elementor-widget-wrap">
-            <div class="elementor-element elementor-element-4b7f247 post_has_media_content-yes elementor-widget elementor-widget-gt3-core-blog" data-id="4b7f247" data-element_type="widget" data-widget_type="gt3-core-blog.default">
-    <div class="elementor-widget-container">
-<script type="application/json" id="settings--4b7f247">{"packery":false,"isotope_settings":{"layoutMode":"masonry"}}</script>	<div class="gt3_module_blog items3  items_type1">
-    <div class="spacing_beetween_items_30 isotope_blog_items isotope"><div class="blog_post_preview isotope_item isotope-item loading element format-standard-image seo packery_blog_item_1  ">
-            <div class="item_wrapper" >
-                <div class="blog_content"><div class="blog_post_media"><a href="https://ewebotwp.com/how-to-increase-your-roi-through-scientific-sem/"><img decoding="async"  srcset="https://ewebotwp.com/wp-content/uploads/2019/07/blog_img_01-540x360.jpg 540w, https://ewebotwp.com/wp-content/uploads/2019/07/blog_img_01-400x266.jpg 400w, https://ewebotwp.com/wp-content/uploads/2019/07/blog_img_01-496x330.jpg 496w, https://ewebotwp.com/wp-content/uploads/2019/07/blog_img_01-384x256.jpg 384w, https://ewebotwp.com/wp-content/uploads/2019/07/blog_img_01-600x400.jpg 600w,https://ewebotwp.com/wp-content/uploads/2019/07/blog_img_01-420x280.jpg 420w" src="https://ewebotwp.com/wp-content/uploads/2019/07/blog_img_01-540x360.jpg" sizes="(min-width: 1200px) 540px, (min-width: 992px) 400px, (min-width: 768px) 496px, (min-width: 600px) 384px, (min-width: 420px) 600px, (max-width: 600px) 420px" alt="How to Increase Your ROI Through scientific SEM?" /></a></div><div class="listing_meta_wrap"><div class="listing_meta"><span class="post_date">August 2, 2021</span></div></div><h2 class="blogpost_title"><a href="https://ewebotwp.com/how-to-increase-your-roi-through-scientific-sem/">How to Increase Your ROI Through scientific SEM?</a></h2><div class="clear post_clear"></div><div class="gt3_post_footer"><div class="gt3_module_button_list"><a href="https://ewebotwp.com/how-to-increase-your-roi-through-scientific-sem/">Read More</a></div><div class="blog_post_info">			<!-- post share block -->
-<div class="post_share_block">
-    <a href="javascript:void(0)"><span class="sharing_title">Share</span></a>
-    <div class="post_share_wrap">
-        <ul>
-            <li class="post_share-facebook"><a target="_blank" href="https://www.facebook.com/share.php?u=https://ewebotwp.com/how-to-increase-your-roi-through-scientific-sem/"><span class="fa fa-facebook"></span></a></li><li class="post_share-twitter"><a target="_blank" href="https://twitter.com/intent/tweet?text=How%20to%20Increase%20Your%20ROI%20Through%20scientific%20SEM?&#038;url=https://ewebotwp.com/how-to-increase-your-roi-through-scientific-sem/"><span class="fa fa-twitter"></span></a></li><li class="post_share-pinterest"><a target="_blank" href="https://pinterest.com/pin/create/button/?url=https://ewebotwp.com/how-to-increase-your-roi-through-scientific-sem/&#038;media=https://ewebotwp.com/wp-content/uploads/2019/07/blog_img_01.jpg" data-elementor-open-lightbox="no"><span class="fa fa-pinterest"></span></a></li><li class="post_share-linkedin"><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&#038;url=https://ewebotwp.com/how-to-increase-your-roi-through-scientific-sem/&#038;title=How%20to%20Increase%20Your%20ROI%20Through%20scientific%20SEM?&#038;source=Ewebot%20WordPress%20Theme"><span class="fa fa-linkedin"></span></a></li><li class="post_share-mail"><a target="_blank" href="mailto:?subject=How+to+Increase+Your+ROI+Through+scientific+SEM%3F&body=https://ewebotwp.com/how-to-increase-your-roi-through-scientific-sem/"><span class="fa fa-envelope"></span></a></li>					</ul>
-    </div>
-</div>
-<!-- //post share block -->
-</div><div class="clear"></div></div></div>
-            </div>
-        </div>
-        <div class="blog_post_preview isotope_item isotope-item loading element format-standard-image branding planing packery_blog_item_2  ">
-            <div class="item_wrapper" >
-                <div class="blog_content"><div class="blog_post_media"><a href="https://ewebotwp.com/image-post/"><img decoding="async"  srcset="https://ewebotwp.com/wp-content/uploads/2019/08/home5_blog_img-540x360.jpg 540w, https://ewebotwp.com/wp-content/uploads/2019/08/home5_blog_img-400x266.jpg 400w, https://ewebotwp.com/wp-content/uploads/2019/08/home5_blog_img-496x330.jpg 496w, https://ewebotwp.com/wp-content/uploads/2019/08/home5_blog_img-384x256.jpg 384w, https://ewebotwp.com/wp-content/uploads/2019/08/home5_blog_img-600x400.jpg 600w,https://ewebotwp.com/wp-content/uploads/2019/08/home5_blog_img-420x280.jpg 420w" src="https://ewebotwp.com/wp-content/uploads/2019/08/home5_blog_img-540x360.jpg" sizes="(min-width: 1200px) 540px, (min-width: 992px) 400px, (min-width: 768px) 496px, (min-width: 600px) 384px, (min-width: 420px) 600px, (max-width: 600px) 420px" alt="test" /></a></div><div class="listing_meta_wrap"><div class="listing_meta"><span class="post_date">August 1, 2021</span></div></div><h2 class="blogpost_title"><a href="https://ewebotwp.com/image-post/">Simple Ways To Optimize Your Website For SEO</a></h2><div class="clear post_clear"></div><div class="gt3_post_footer"><div class="gt3_module_button_list"><a href="https://ewebotwp.com/image-post/">Read More</a></div><div class="blog_post_info">			<!-- post share block -->
-<div class="post_share_block">
-    <a href="javascript:void(0)"><span class="sharing_title">Share</span></a>
-    <div class="post_share_wrap">
-        <ul>
-            <li class="post_share-facebook"><a target="_blank" href="https://www.facebook.com/share.php?u=https://ewebotwp.com/image-post/"><span class="fa fa-facebook"></span></a></li><li class="post_share-twitter"><a target="_blank" href="https://twitter.com/intent/tweet?text=Simple%20Ways%20To%20Optimize%20Your%20Website%20For%20SEO&#038;url=https://ewebotwp.com/image-post/"><span class="fa fa-twitter"></span></a></li><li class="post_share-pinterest"><a target="_blank" href="https://pinterest.com/pin/create/button/?url=https://ewebotwp.com/image-post/&#038;media=https://ewebotwp.com/wp-content/uploads/2019/08/home5_blog_img.jpg" data-elementor-open-lightbox="no"><span class="fa fa-pinterest"></span></a></li><li class="post_share-linkedin"><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&#038;url=https://ewebotwp.com/image-post/&#038;title=Simple%20Ways%20To%20Optimize%20Your%20Website%20For%20SEO&#038;source=Ewebot%20WordPress%20Theme"><span class="fa fa-linkedin"></span></a></li><li class="post_share-mail"><a target="_blank" href="mailto:?subject=Simple+Ways+To+Optimize+Your+Website+For+SEO&body=https://ewebotwp.com/image-post/"><span class="fa fa-envelope"></span></a></li>					</ul>
-    </div>
-</div>
-<!-- //post share block -->
-</div><div class="clear"></div></div></div>
-            </div>
-        </div>
-        <div class="blog_post_preview isotope_item isotope-item loading element format-standard-image planing web packery_blog_item_3  ">
-            <div class="item_wrapper" >
-                <div class="blog_content"><div class="blog_post_media"><a href="https://ewebotwp.com/standart-post/"><img decoding="async"  srcset="https://ewebotwp.com/wp-content/uploads/2019/08/blog_post_02-540x360.jpg 540w, https://ewebotwp.com/wp-content/uploads/2019/08/blog_post_02-400x267.jpg 400w, https://ewebotwp.com/wp-content/uploads/2019/08/blog_post_02-496x331.jpg 496w, https://ewebotwp.com/wp-content/uploads/2019/08/blog_post_02-384x256.jpg 384w, https://ewebotwp.com/wp-content/uploads/2019/08/blog_post_02-600x400.jpg 600w,https://ewebotwp.com/wp-content/uploads/2019/08/blog_post_02-420x280.jpg 420w" src="https://ewebotwp.com/wp-content/uploads/2019/08/blog_post_02-540x360.jpg" sizes="(min-width: 1200px) 540px, (min-width: 992px) 400px, (min-width: 768px) 496px, (min-width: 600px) 384px, (min-width: 420px) 600px, (max-width: 600px) 420px" alt="The Basics of Blogging Search Optimization" /></a></div><div class="listing_meta_wrap"><div class="listing_meta"><span class="post_date">August 1, 2021</span></div></div><h2 class="blogpost_title"><a href="https://ewebotwp.com/standart-post/">The Basics of Blogging Search Optimization</a></h2><div class="clear post_clear"></div><div class="gt3_post_footer"><div class="gt3_module_button_list"><a href="https://ewebotwp.com/standart-post/">Read More</a></div><div class="blog_post_info">			<!-- post share block -->
-<div class="post_share_block">
-    <a href="javascript:void(0)"><span class="sharing_title">Share</span></a>
-    <div class="post_share_wrap">
-        <ul>
-            <li class="post_share-facebook"><a target="_blank" href="https://www.facebook.com/share.php?u=https://ewebotwp.com/standart-post/"><span class="fa fa-facebook"></span></a></li><li class="post_share-twitter"><a target="_blank" href="https://twitter.com/intent/tweet?text=The%20Basics%20of%20Blogging%20Search%20Optimization&#038;url=https://ewebotwp.com/standart-post/"><span class="fa fa-twitter"></span></a></li><li class="post_share-pinterest"><a target="_blank" href="https://pinterest.com/pin/create/button/?url=https://ewebotwp.com/standart-post/&#038;media=https://ewebotwp.com/wp-content/uploads/2019/08/blog_post_02.jpg" data-elementor-open-lightbox="no"><span class="fa fa-pinterest"></span></a></li><li class="post_share-linkedin"><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&#038;url=https://ewebotwp.com/standart-post/&#038;title=The%20Basics%20of%20Blogging%20Search%20Optimization&#038;source=Ewebot%20WordPress%20Theme"><span class="fa fa-linkedin"></span></a></li><li class="post_share-mail"><a target="_blank" href="mailto:?subject=The+Basics+of+Blogging+Search+Optimization&body=https://ewebotwp.com/standart-post/"><span class="fa fa-envelope"></span></a></li>					</ul>
-    </div>
-</div>
-<!-- //post share block -->
-</div><div class="clear"></div></div></div>
-            </div>
-        </div>
-        </div>	</div>
-</div>
-    </div>
-    <div class="elementor-element elementor-element-10c9549 elementor-widget elementor-widget-spacer" data-id="10c9549" data-element_type="widget" data-widget_type="spacer.default">
-    <div class="elementor-widget-container">
-        <div class="elementor-spacer">
-<div class="elementor-spacer-inner"></div>
-</div>
-    </div>
-    </div>
-            </div>
-        </div>
-</div>
-                    </div>
-        </div>
-</section>
+
 			
-			
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-6780620 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6780620" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b5de09d" data-id="b5de09d" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-3cd119d elementor-widget elementor-widget-spacer" data-id="3cd119d" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-				
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				
+
 			
 				<section class="elementor-section elementor-top-section elementor-element elementor-element-2b57776 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2b57776" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
@@ -583,7 +475,7 @@ include("header.php");
 								</div>
 					</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-44b7950 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="44b7950" data-element_type="section">
+		<section class="elementor-section elementor-top-section elementor-element elementor-element-44b7950 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="44b7950" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-extended">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6d1b22d" data-id="6d1b22d" data-element_type="column">
@@ -605,69 +497,77 @@ include("header.php");
 						</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-356f8db" data-id="356f8db" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-d2e44c6 elementor-widget elementor-widget-spacer" data-id="d2e44c6" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element-custom_font_size elementor-element-custom_font_weight elementor-element elementor-element-5683383 elementor-widget elementor-widget-text-editor" data-id="5683383" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-				<h5>analysis</h5>					</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-3b015b9 elementor-widget elementor-widget-heading" data-id="3b015b9" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Get Free SEO Analysis?</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-9052be1 elementor-widget elementor-widget-text-editor" data-id="9052be1" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-				<p>Ne summo dictas pertinacia nam. Illum cetero vocent ei vim, case regione signiferumque vim te.</p>					</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-4c2802d elementor-widget elementor-widget-html" data-id="4c2802d" data-element_type="widget" data-widget_type="html.default">
-				<div class="elementor-widget-container">
-			
-<div class="wpcf7 no-js" id="wpcf7-f958-p91-o2" lang="en-US" dir="ltr">
-<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-<form action="" method="post" class="wpcf7-form init" >
+<!-- 			
+		<form action="" method="post">
 
-<div class="row home2_form">
-	<div class="span6">
-		<p><select>
-		<option value="">packages</option>
-		<option value="">bumbm</option>
-		<option value="">toto</option>
-		<option value="">prick</option>
-		</select>
-		</p>
-	</div>
-	<div class="span6">
-		<p><span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your Name*" value="" type="text" name="your-name" /></span>
-		</p>
-	</div>
-	
-	<div class="span6" >
-		<p><span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Phone" value="" type="text" name="your-name" /></span>
-		</p>
-	</div>
-	<div class="span12">
-		<p><input class="wpcf7-form-control has-spinner wpcf7-submit" type="submit" value="submit" />
-		</p>
-	</div>
-	
-</div>
-<div><span>889</span> contact posted on <span>mar 12</span></div>
+
+
+
+		</form> -->
+
+
+		
+<?php
+$hostname  = "localhost";
+$user     = "root";
+$pass     = "";
+$databasename = "whatsapp";
+// Create connection
+$conn = mysqli_connect($hostname, $user, $pass,$databasename);
+// Check connection
+if (!$conn) {
+    die("Unable to Connect database: " . mysqli_connect_error());
+}
+?>
+
+<?php
+// if(isset($_POST['login'])){
+// $name = mysqli_real_escape_string($conn, $_POST['name']);
+// $phone = mysqli_real_escape_string($conn, $_POST['phone']);
+// $plan = mysqli_real_escape_string($conn, $_POST['plan']);
+
+
+// $sql = "INSERT INTO contact (name, phone, plan)
+// VALUES ('$name', '$phone', '$plan')";
+
+// if ($conn->query($sql) === TRUE) {
+//   echo "New record created successfully";
+// } else {
+//   echo "Error: " . $sql . "<br>" . $conn->error;
+// }
+
+// $conn->close();
+//}
+
+
+if(isset($_POST['login'])){
+    $name = mysqli_real_escape_string($conn, $_POST['name']);
+    $phone = mysqli_real_escape_string($conn, $_POST['phone']);
+    
+    
+    $sql = "INSERT INTO test (name, phone)
+    VALUES ('$name', '$phone')";
+    
+    if ($conn->query($sql) === TRUE) {
+      echo "New record created successfully";
+    } else {
+      echo "Error: " . $sql . "<br>" . $conn->error;
+    }
+    
+    $conn->close();
+    }
+
+
+
+
+?>
+
+<form action="" method="post">
+
+<input type="text" name="name">
+<input type="text" name="phone">
+<button name="login" type="submit">send</button>
 </form>
-</div>
-		</div>
-				</div>
 				<div class="elementor-element elementor-element-be5fe9e elementor-widget elementor-widget-spacer" data-id="be5fe9e" data-element_type="widget" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-spacer">
