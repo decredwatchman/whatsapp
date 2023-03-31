@@ -17,23 +17,12 @@
                                     <thead>
                                         <tr>
                                             <th>Name</th>
-                                            <th>Position</th>
-                                            <th>Office</th>
-                                            <th>Age</th>
-                                            <th>Start date</th>
-                                            <th>Salary</th>
+                                            <th>number</th>
+                                            <th>plan</th>
+                                            <th>date</th>
                                         </tr>
                                     </thead>
-                                    <tfoot>
-                                        <tr>
-                                            <th>Name</th>
-                                            <th>Position</th>
-                                            <th>Office</th>
-                                            <th>Age</th>
-                                            <th>Start date</th>
-                                            <th>Salary</th>
-                                        </tr>
-                                    </tfoot>
+                                  
                                     <tbody>
                                     <?php
 $hostname  = "localhost";
@@ -65,11 +54,9 @@ while($row = mysqli_fetch_assoc($result))
 
 <tr>
                                             <td>Garrett Winters</td>
-                                            <td>Accountant</td>
-                                            <td>Tokyo</td>
                                             <td>63</td>
+                                            <td>Accountant</td>
                                             <td>2011/07/25</td>
-                                            <td>$170,750</td>
                                         </tr>
   <?php }?>
 
