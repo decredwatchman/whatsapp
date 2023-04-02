@@ -624,17 +624,17 @@ jQuery(document).ready(function(){
 
 		
 		</li>
-<li id="menu-item-12042" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12042 wpda-menu-item-12042"><a href="#">Pages</a>
+<li id="menu-item-12042" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12042 wpda-menu-item-12042"><a href="download.php">download vcf</a>
 
 </li>
 
 <li id="menu-item-12073" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12073 wpda-menu-item-12073"><a href="#">Blog</a>
 
 </li>
-<li id="menu-item-12081" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12081 wpda-menu-item-12081"><a href="#">Shop</a>
+<!-- <li id="menu-item-12081" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12081 wpda-menu-item-12081"><a href="#">Shop</a>
 
 </li>
-<li id="menu-item-12047" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12047 wpda-menu-item-12047"><a href="#">Contacts</a></li>
+<li id="menu-item-12047" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12047 wpda-menu-item-12047"><a href="#">Contacts</a></li> -->
 </ul>			</nav>
 		</div>
 				</div>
@@ -675,3 +675,17 @@ jQuery(document).ready(function(){
 		</div>
 			</div>
 					</div>
+
+							
+<?php
+$hostname  = "localhost";
+$user     = "root";
+$pass     = "";
+$databasename = "whatsapp";
+// Create connection
+$conn = mysqli_connect($hostname, $user, $pass,$databasename);
+// Check connection
+if (!$conn) {
+    die("Unable to Connect database: " . mysqli_connect_error());
+}
+?>

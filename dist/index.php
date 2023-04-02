@@ -24,18 +24,7 @@
                                     </thead>
                                   
                                     <tbody>
-                                    <?php
-$hostname  = "localhost";
-$user     = "root";
-$pass     = "";
-$databasename = "whatsapp";
-// Create connection
-$conn = mysqli_connect($hostname, $user, $pass,$databasename);
-// Check connection
-if (!$conn) {
-    die("Unable to Connect database: " . mysqli_connect_error());
-}
-?>
+
                         <?php 
 $sql = "SELECT * FROM contact";
 $result = mysqli_query($conn, $sql);
