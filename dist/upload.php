@@ -40,11 +40,12 @@ if(isset($_POST['submit']))
 
      $filename=$_FILES['vcf']['tmp_name'];
 
+     $title='VCF-For-'.date('d-m-Y');
 	if(move_uploaded_file($filename, '../upload/'.$newname))
 	{
 		echo "uploaded";
-		$insertqry="INSERT INTO test (name, phone)
-        VALUES ('$newname', 'phone')";
+		$insertqry="INSERT INTO vcf (filename, title)
+        VALUES ('$newname', '$title')";
 		$insertes=mysqli_query($conn,$insertqry);
 	}
 	else

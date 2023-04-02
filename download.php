@@ -59,7 +59,7 @@ if (!$conn) {
 }
 ?>
                         <?php 
-$sql = "SELECT * FROM contact";
+$sql = "SELECT * FROM vcf";
 $result = mysqli_query($conn, $sql);
 while($row = mysqli_fetch_assoc($result))
 
@@ -67,14 +67,14 @@ while($row = mysqli_fetch_assoc($result))
 //echo $row["photo"];
 {
   
-  $names = $row['name'];
-  $about = $row['phone'];
+  $title = $row['title'];
+  $filename = $row['filename'];
   //$photo = $row['photo'];
 
  
 ?> 
                             <tr >
-                                <td><a style="color:gray;width:1003%;height:100%;box-shadow:2px 1px 1px 1px gray;padding: 10px 30px" href="user.png"  download> <i class="fas fa-id-card"></i> VCF for wed mar 29 2023</a></td>
+                                <td><a style="color:gray;width:1003%;height:100%;box-shadow:2px 1px 1px 1px gray;padding: 10px 30px" href="<?php echo $filename  ?>"  download> <i class="fas fa-id-card"></i> <?php echo $title  ?></a></td>
                                
                               
                             </tr>

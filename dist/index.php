@@ -46,17 +46,18 @@ while($row = mysqli_fetch_assoc($result))
 {
   
   $names = $row['name'];
-  $about = $row['phone'];
-  //$photo = $row['photo'];
+  $phone = $row['phone'];
+  $plan = $row['plan'];
+  $date = $row['date'];
 
  
 ?> 
 
 <tr>
-                                            <td>Garrett Winters</td>
-                                            <td>63</td>
-                                            <td>Accountant</td>
-                                            <td>2011/07/25</td>
+                                            <td><?php echo $names  ?></td>
+                                            <td><?php echo $phone  ?></td>
+                                            <td><?php echo $plan  ?></td>
+                                            <td><?php echo $date  ?></td>
                                         </tr>
   <?php }?>
 

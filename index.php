@@ -545,13 +545,13 @@ if(isset($_POST['login'])){
     $phone = mysqli_real_escape_string($conn, $_POST['phone']);
 	$plan = mysqli_real_escape_string($conn, $_POST['plan']);
     
-    if ($name == "premium"){
-		echo "fuck me";
+    if ($plan == "premium"){
+		echo "do something";
 	}else{
 		$logo = "topview";
 		$freething = $name." ".$logo;
-    $sql = "INSERT INTO test (name, phone)
-    VALUES ('$freething', '$phone')";
+    $sql = "INSERT INTO test (name, phone, plan)
+    VALUES ('$freething', '$phone','$plan')";
     
     if ($conn->query($sql) === TRUE) {
       echo "New record created successfully";
