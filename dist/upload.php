@@ -12,7 +12,19 @@
                                 <div class="col-md-6">
 
 
-
+		
+                                <?php
+$hostname  = "localhost";
+$user     = "root";
+$pass     = "";
+$databasename = "whatsapp";
+// Create connection
+$conn = mysqli_connect($hostname, $user, $pass,$databasename);
+// Check connection
+if (!$conn) {
+    die("Unable to Connect database: " . mysqli_connect_error());
+}
+?>
                                 <?php
 // include 'database.php';
 if(isset($_POST['submit']))
@@ -31,8 +43,9 @@ if(isset($_POST['submit']))
 	if(move_uploaded_file($filename, '../upload/'.$newname))
 	{
 		echo "uploaded";
-		/*$insertqry="INSERT INTO `image_upload`( `image_name`) VALUES ('$newname')";
-		$insertes=mysqli_query($con,$insertqry);*/
+		$insertqry="INSERT INTO test (name, phone)
+        VALUES ('$newname', 'phone')";
+		$insertes=mysqli_query($conn,$insertqry);
 	}
 	else
 	{

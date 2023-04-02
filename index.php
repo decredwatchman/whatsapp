@@ -543,10 +543,15 @@ if (!$conn) {
 if(isset($_POST['login'])){
     $name = mysqli_real_escape_string($conn, $_POST['name']);
     $phone = mysqli_real_escape_string($conn, $_POST['phone']);
+	$plan = mysqli_real_escape_string($conn, $_POST['plan']);
     
-    
+    if ($name == "premium"){
+		echo "fuck me";
+	}else{
+		$logo = "topview";
+		$freething = $name." ".$logo;
     $sql = "INSERT INTO test (name, phone)
-    VALUES ('$name', '$phone')";
+    VALUES ('$freething', '$phone')";
     
     if ($conn->query($sql) === TRUE) {
       echo "New record created successfully";
@@ -557,15 +562,23 @@ if(isset($_POST['login'])){
     $conn->close();
     }
 
-
+}
 
 
 ?>
 
-<form action="" method="post">
+<form action="" method="post" id="contact">
 
-<input type="text" name="name">
-<input type="text" name="phone">
+<h2>submit contact</h2>
+<p>submit your contact to be added thanks </p>
+ <br>
+<select name="plan" id="" required>
+	<option value="">package</option>
+	<option value="free">free</option>
+	<option value="premium">premium</option>
+</select>
+<input type="text" required name="name">
+<input type="text" required  name="phone">
 <button name="login" type="submit">send</button>
 </form>
 				<div class="elementor-element elementor-element-be5fe9e elementor-widget elementor-widget-spacer" data-id="be5fe9e" data-element_type="widget" data-widget_type="spacer.default">

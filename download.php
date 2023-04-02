@@ -9,11 +9,12 @@ include("header.php");
         }
         td{
             margin:30px;
-            box-shadow:2px 1px 1px 1px gray;
+            /* box-shadow:2px 1px 1px 1px gray; */
             border-radius:8px;
             cursor: pointer;
-           
+           border: 6px solid transparent;
         }
+     
         .gg{
             padding-top:20px;
             padding-bottom:20px;
@@ -72,13 +73,12 @@ while($row = mysqli_fetch_assoc($result))
 
  
 ?> 
-<a href="user.png"  download>
                             <tr >
-                                <td> VCF for wed mar 29 2023</td>
+                                <td><a style="color:gray;width:1003%;height:100%;box-shadow:2px 1px 1px 1px gray;padding: 10px 30px" href="user.png"  download> <i class="fas fa-id-card"></i> VCF for wed mar 29 2023</a></td>
                                
                               
                             </tr>
-</a>
+
                          <?php } ?>   
                           
                         </tbody>
