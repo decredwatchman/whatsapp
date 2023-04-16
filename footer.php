@@ -60,7 +60,7 @@
 				<div class="elementor-element-custom_font_size elementor-element-custom_line_height elementor-element-custom_color elementor-element elementor-element-2ee48b3 elementor-widget elementor-widget-text-editor" data-id="2ee48b3" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p style="text-align: center;">© 2023— Ewebot by GT3Themes. All Rights Reserved.</p>					</div>
+				<p style="text-align: center;">© 2023  by whatsappTopViews. All Rights Reserved.</p>					</div>
 						</div>
 				</div>
 						</div>
@@ -72,12 +72,14 @@
 									</div>
 			</div>
 					</div>
-		<div class="wpda-builder__burger_sidebar burger-id-3ea3c3e"><div class="wpda-builder__burger_sidebar-cover"></div><div class="wpda-builder__burger_container"><aside class="sidebar"><div id="custom_html-4" class="widget_text widget gt3_widget open widget_custom_html"><div class="textwidget custom-html-widget"><img class="alignnone size-full wp-image-1456" src="https://ewebotwp.com/wp-content/uploads/2019/08/logo_retinablack.png" alt="" width="149" height="48" /></div></div><div id="custom_html-5" class="widget_text widget gt3_widget open widget_custom_html"><div class="textwidget custom-html-widget"><div class="textwidget"><p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lecto rum eleifend option congue nihil doming. Espa notrle neumurit.</p></div></div></div><div id="custom_html-6" class="widget_text widget gt3_widget open widget_custom_html"><h4 class="widget-title">Contacts</h4><div class="textwidget custom-html-widget"><div class="textwidget"><p><a class="gt3_icon_link gt3_custom_color" style="font-size: 17px;color: #5747e4;margin-right: 15px;margin-top: -20px" href="#" target="_blank" rel="noopener noreferrer" data-color="#5747e4" data-hover-color="#f47215"><br>
+		<!-- <div class="wpda-builder__burger_sidebar burger-id-3ea3c3e"><div class="wpda-builder__burger_sidebar-cover"></div><div class="wpda-builder__burger_container"><aside class="sidebar"><div id="custom_html-4" class="widget_text widget gt3_widget open widget_custom_html"><div class="textwidget custom-html-widget"><img class="alignnone size-full wp-image-1456" src="https://ewebotwp.com/wp-content/uploads/2019/08/logo_retinablack.png" alt="" width="149" height="48" /></div></div><div id="custom_html-5" class="widget_text widget gt3_widget open widget_custom_html"><div class="textwidget custom-html-widget"><div class="textwidget"><p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lecto rum eleifend option congue nihil doming. Espa notrle neumurit.</p></div></div></div><div id="custom_html-6" class="widget_text widget gt3_widget open widget_custom_html"><h4 class="widget-title">Contacts</h4><div class="textwidget custom-html-widget"><div class="textwidget"><p><a class="gt3_icon_link gt3_custom_color" style="font-size: 17px;color: #5747e4;margin-right: 15px;margin-top: -20px" href="#" target="_blank" rel="noopener noreferrer" data-color="#5747e4" data-hover-color="#f47215"><br>
 <i class="fa fa-phone" style="font-weight: bold"> </i><br>
 </a> 8 800 2563 123</p>
 <p><a class="gt3_icon_link gt3_custom_color" style="font-size: 17px;color: #5747e4;margin-right: 15px;margin-top: -5px" href="#" target="_blank" rel="noopener noreferrer" data-color="#5747e4" data-hover-color="#f47215"><i class="fa fa-envelope">&nbsp;</i></a> emil@yoursite.com</p>
 <p><a class="gt3_icon_link gt3_custom_color" style="font-size: 17px; margin-top: 7px; margin-right: 15px; margin-bottom: 20px; float: left; color: rgb(87, 71, 228);" href="#" target="_blank" rel="noopener noreferrer" data-color="#5747e4" data-hover-color="#f47215"><img class="alignnone" src="https://ewebotwp.com/wp-content/uploads/2019/09/map_point.png" alt="" width="12" height="17" style="margin-right: 10px; margin-left: 3px"></a>27 Division St, New York, NY 10002, United States</p>
-</div></div></div><div id="block-7" class="widget gt3_widget open widget_block"><p><script>(function() {
+</div></div></div><div id="block-7" class="widget gt3_widget open widget_block"><p> -->
+	<script>
+	(function() {
 	window.mc4wp = window.mc4wp || {
 		listeners: [],
 		forms: {
@@ -92,19 +94,29 @@
 		}
 	}
 })();
-</script><!-- Mailchimp for WordPress v4.9.2 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-9431" method="post" data-id="9431" data-name="Subscription form" ><div class="mc4wp-form-fields"><div class="mc_merge_var">
+</script><!-- Mailchimp for WordPress v4.9.2 - https://wordpress.org/plugins/mailchimp-for-wp/ -->
+	<!-- <form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-9431" method="post" data-id="9431" data-name="Subscription form" ><div class="mc4wp-form-fields"><div class="mc_merge_var">
 	<input type="email" name="EMAIL" placeholder="Email Address" required />
 </div>
 <div class="mc_signup_submit">
 	<input type="submit" value="Sign up" />
-</div></div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1680092641" /><input type="hidden" name="_mc4wp_form_id" value="9431" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin --></p>
-</div><div id="custom_html-7" class="widget_text widget gt3_widget open widget_custom_html"><div class="textwidget custom-html-widget"><div class="textwidget"><p><a class="gt3_icon_link gt3_custom_color" style="font-size: 16px; color: rgb(151, 148, 180); margin-right: 15px; margin-top: 5px;" href="#" target="_blank" rel="noopener noreferrer" data-color="#9794b4" data-hover-color="#00aced"><i class="fa fa-twitter">&nbsp;</i></a>&nbsp;<a class="gt3_icon_link gt3_custom_color" style="font-size: 16px;color: #9794b4;margin-right: 15px;margin-top: 5px" href="#" target="_blank" rel="noopener noreferrer" data-color="#9794b4" data-hover-color="#3b5998"><i class="fa fa-facebook">&nbsp;</i></a><a class="gt3_icon_link gt3_custom_color" style="font-size: 16px;color: #9794b4;margin-right: 15px;margin-top: 5px" href="#" target="_blank" rel="noopener noreferrer" data-color="#9794b4" data-hover-color="#f04b3f"><i class="fa fa-google-plus">&nbsp;</i></a> <a class="gt3_icon_link gt3_custom_color" style="font-size: 16px;color: #9794b4;margin-right: 15px;margin-top: 5px" href="#" target="_blank" rel="noopener noreferrer" data-color="#9794b4" data-hover-color="#cb2027"><i class="fa fa-pinterest-p">&nbsp;</i></a> <a class="gt3_icon_link gt3_custom_color" style="font-size: 16px;color: #9794b4;margin-right: 15px;margin-top: 5px" href="#" target="_blank" rel="noopener noreferrer" data-color="#9794b4" data-hover-color="#007bb6"><i class="fa fa-linkedin">&nbsp;</i></a></p>
+</div></div><label style="display: none !important;">Leave this field empty if you're human:
+	 <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label
+	 ><input type="hidden" name="_mc4wp_timestamp" value="1680092641" /><input type="hidden" name="_mc4wp_form_id" value="9431" />
+	 <input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form></p>
+</div><div id="custom_html-7" class="widget_text widget gt3_widget open widget_custom_html">
+	<div class="textwidget custom-html-widget"><div class="textwidget"><p>
+		<a class="gt3_icon_link gt3_custom_color" style="font-size: 16px; color: rgb(151, 148, 180); margin-right: 15px; margin-top: 5px;" href="#" target="_blank" rel="noopener noreferrer" data-color="#9794b4" data-hover-color="#00aced">
+		<i class="fa fa-twitter">&nbsp;</i></a>&nbsp;<a class="gt3_icon_link gt3_custom_color" style="font-size: 16px;color: #9794b4;margin-right: 15px;margin-top: 5px" href="#" target="_blank" rel="noopener noreferrer" data-color="#9794b4" data-hover-color="#3b5998">
+		<i class="fa fa-facebook">&nbsp;</i></a><a class="gt3_icon_link gt3_custom_color" style="font-size: 16px;color: #9794b4;margin-right: 15px;margin-top: 5px" href="#" target="_blank" rel="noopener noreferrer" data-color="#9794b4" data-hover-color="#f04b3f">
+		<i class="fa fa-google-plus">&nbsp;</i></a> <a class="gt3_icon_link gt3_custom_color" style="font-size: 16px;color: #9794b4;margin-right: 15px;margin-top: 5px" href="#" target="_blank" rel="noopener noreferrer" data-color="#9794b4" data-hover-color="#cb2027">
+		<i class="fa fa-pinterest-p">&nbsp;</i></a> <a class="gt3_icon_link gt3_custom_color" style="font-size: 16px;color: #9794b4;margin-right: 15px;margin-top: 5px" href="#" target="_blank" rel="noopener noreferrer" data-color="#9794b4" data-hover-color="#007bb6"><i class="fa fa-linkedin">&nbsp;</i></a></p>
 </div></div></div></aside></div></div>				<script>
 					if (localStorage.getItem('gt3_gridlist_woo') === null) {
 						localStorage.setItem('gt3_gridlist_woo','grid')
 					}
-				</script>
-				<script>(function() {function maybePrefixUrlField () {
+				</script> -->
+				<!-- <script>(function() {function maybePrefixUrlField () {
   const value = this.value.trim()
   if (value !== '' && value.indexOf('http') !== 0) {
     this.value = 'http://' + value
@@ -115,8 +127,8 @@ const urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]')
 for (let j = 0; j < urlFields.length; j++) {
   urlFields[j].addEventListener('blur', maybePrefixUrlField)
 }
-})();</script>
-<div id="yith-quick-view-modal">
+})();</script> -->
+<!-- <div id="yith-quick-view-modal">
 	<div class="yith-quick-view-overlay"></div>
 	<div class="yith-wcqv-wrapper">
 		<div class="yith-wcqv-main">
@@ -126,15 +138,17 @@ for (let j = 0; j < urlFields.length; j++) {
 			<div id="yith-quick-view-content" class="woocommerce single-product"></div>
 		</div>
 	</div>
-</div>
-<div class='bubbles_wrap'><div class='bubble x1'></div><div class='bubble x2'></div><div class='bubble x3'></div><div class='bubble x4'></div><div class='bubble x5'></div><div class='bubble x6'></div><div class='bubble x7'></div><div class='bubble x8'></div><div class='bubble x9'></div><div class='bubble x10'></div></div><div class='back_to_top_container'><a href='javascript:void(0)' class='gt3_back2top' id='back_to_top'></a></div>	<script type="text/javascript">
+</div> -->
+<!-- <div class='bubbles_wrap'><div class='bubble x1'></div><div class='bubble x2'></div><div class='bubble x3'></div><div class='bubble x4'></div><div class='bubble x5'></div><div class='bubble x6'></div><div class='bubble x7'></div><div class='bubble x8'></div><div class='bubble x9'></div><div class='bubble x10'></div></div><div class='back_to_top_container'><a href='javascript:void(0)' class='gt3_back2top' id='back_to_top'></a></div>	
+ -->
+ <!-- <script type="text/javascript">
 		(function () {
 			var c = document.body.className;
 			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
 			document.body.className = c;
 		})();
-	</script>
-	
+	</script> -->
+<!-- 	
 <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
 	<div class="pswp__bg"></div>
 	<div class="pswp__scroll-wrap">
@@ -168,15 +182,8 @@ for (let j = 0; j < urlFields.length; j++) {
 			</div>
 		</div>
 	</div>
-</div>
-<script type="text/template" id="tmpl-variation-template">
-	<div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>
-	<div class="woocommerce-variation-price">{{{ data.variation.price_html }}}</div>
-	<div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}</div>
-</script>
-<script type="text/template" id="tmpl-unavailable-variation-template">
-	<p>Sorry, this product is unavailable. Please choose a different combination.</p>
-</script>
+</div> -->
+
 <link rel='stylesheet' id='swipebox_style-css' href='https://ewebotwp.com/wp-content/plugins/gt3-themes-core/core/elementor/assets/js/swipebox/css/swipebox.min.css?ver=6.1.1' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-post-4283-css' href='https://ewebotwp.com/wp-content/uploads/elementor/css/post-4283.css?ver=1680089582' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-post-4286-css' href='https://ewebotwp.com/wp-content/uploads/elementor/css/post-4286.css?ver=1680089582' type='text/css' media='all' />

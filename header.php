@@ -662,9 +662,9 @@ jQuery(document).ready(function(){
 				</div>
 				<div class="elementor-element elementor-element-3ea3c3e elementor-widget__width-auto elementor-widget elementor-widget-wpda-builder-burger-sidebar" data-id="3ea3c3e" data-element_type="widget" data-widget_type="wpda-builder-burger-sidebar.default">
 				<div class="elementor-widget-container">
-					<div class="wpda-builder-burger_sidebar" data-id="3ea3c3e">
+					 <div class="wpda-builder-burger_sidebar" data-id="3ea3c3e">
 			<i class="burger_sidebar_icon"><span class="first"></span><span class="second"></span><span class="third"></span></i>		</div>
-				</div>
+				</div> 
 				</div>
 						</div>
 					</div>
