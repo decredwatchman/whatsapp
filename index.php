@@ -3,14 +3,7 @@ include("header.php");
 ?>
 
 
-	<style>
-		@media screen and (max-width:700px) {
-			.us{
-				display:none;
-			}
-			
-		}
-	</style>		
+		
 		<div class="site_wrapper fadeOnLoad">
 		<div class="main_wrapper">
 
@@ -533,12 +526,12 @@ Totally free</p><p style="text-align: center">All Contacts are automatically sav
 		</div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-cb9756b animated-fast elementor-invisible elementor-widget elementor-widget-image" data-id="cb9756b" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="image.default">
+				<!-- <div class="elementor-element elementor-element-cb9756b animated-fast elementor-invisible elementor-widget elementor-widget-image" data-id="cb9756b" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="715" height="545" src="https://ewebotwp.com/wp-content/uploads/2019/09/home2_img_05.png" class="attachment-full size-full wp-image-2016" alt="" loading="lazy" srcset="https://ewebotwp.com/wp-content/uploads/2019/09/home2_img_05.png 715w, https://ewebotwp.com/wp-content/uploads/2019/09/home2_img_05-300x229.png 300w, https://ewebotwp.com/wp-content/uploads/2019/09/home2_img_05-480x366.png 480w" sizes="(max-width: 715px) 100vw, 715px" title="home2_img_05" />														</div>
+												<img decoding="async" width="715" height="545" src="home2_img_05.png" class="attachment-full size-full wp-image-2016" alt="" loading="lazy"  sizes="(max-width: 715px) 100vw, 715px" title="home2_img_05" />														</div>
 						</div>
-				</div>
+				</div> -->
 						</div>
 					</div>
 		</div>
