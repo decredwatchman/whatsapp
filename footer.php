@@ -14,7 +14,7 @@
 
 	        </div><!-- .main_wrapper -->
 	</div><!-- .site_wrapper -->
-<div data-elementor-type="wpda-footer" data-elementor-id="4141" class="elementor elementor-4141 wpda-builder-page-4141 wpda-builder wpda-footer-builder">
+<!-- <div data-elementor-type="wpda-footer" data-elementor-id="4141" class="elementor elementor-4141 wpda-builder-page-4141 wpda-builder wpda-footer-builder">
 						<div class="elementor-inner">
 				<div class="elementor-section-wrap">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-34e974b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="34e974b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
@@ -55,7 +55,7 @@
 					</div>
 		</div>
 								</div>
-					</div>
+					</div> -->
 		</section>
 				<div class="elementor-element-custom_font_size elementor-element-custom_line_height elementor-element-custom_color elementor-element elementor-element-2ee48b3 elementor-widget elementor-widget-text-editor" data-id="2ee48b3" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">

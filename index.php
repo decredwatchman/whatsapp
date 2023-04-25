@@ -596,8 +596,20 @@ if(isset($_POST['login'])){
 
 
 ?>
+<style>
+	.this{
+		padding: 30px;
+		background-color:orange;
+	}
+	.ahh{
+		border-radius:6px;
+		background-color: white;
+		padding: 20px;
+	}
+</style>
 
-<form action="" method="post" id="contact">
+<div class="this">
+<form action="" method="post" class="ahh" id="contact">
 
 <h2>Submit Contact</h2>
 <p>Submit your name and number to be compiled for download by yourself and others </p>
@@ -616,13 +628,14 @@ if(isset($_POST['login'])){
 <input type="text" required placeholder="phone number"  name="phone">
 <button name="login" type="submit">send</button>
 </form>
-				<div class="elementor-element elementor-element-be5fe9e elementor-widget elementor-widget-spacer" data-id="be5fe9e" data-element_type="widget" data-widget_type="spacer.default">
+</div>
+				<!-- <div class="elementor-element elementor-element-be5fe9e elementor-widget elementor-widget-spacer" data-id="be5fe9e" data-element_type="widget" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
+					 <div class="elementor-spacer">
 			<div class="elementor-spacer-inner"></div>
-		</div>
+		</div> 
 				</div>
-				</div>
+				</div> -->
 						</div>
 					</div>
 		</div>
