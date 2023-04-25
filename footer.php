@@ -190,7 +190,7 @@ for (let j = 0; j < urlFields.length; j++) {
 <link rel='stylesheet' id='photoswipe-css' href='https://ewebotwp.com/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css?ver=7.5.1' type='text/css' media='all' />
 <link rel='stylesheet' id='photoswipe-default-skin-css' href='https://ewebotwp.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=7.5.1' type='text/css' media='all' />
 <link rel='stylesheet' id='e-animations-css' href='https://ewebotwp.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.12.0' type='text/css' media='all' />
-<link rel='stylesheet' id='gt3-assets-footer-css' href='https://ewebotwp.com/wp-content/uploads/gt3-assets/css/footer-p_91.css?ver=1680092641' type='text/css' media='all' />
+<link rel='stylesheet' id='gt3-assets-footer-css' href='css/footer-p_91.css' type='text/css' media='all' />
 <script type='text/javascript' src='https://ewebotwp.com/wp-content/plugins/wpda-builder-pro/dist/js/frontend/mega-menu-frontend.js?ver=1677761639' id='wpda-mega-menu-js'></script>
 <script type='text/javascript' src='https://ewebotwp.com/wp-content/plugins/wpda-builder-pro/dist/js/frontend/frontend.js?ver=1677761639' id='wpda-elementor-core-frontend-js'></script>
 <script type='text/javascript' id='gt3pg_pro--core-js-extra'>
@@ -307,15 +307,15 @@ var wc_single_product_params = {"i18n_required_rating_text":"Please select a rat
 <script type='text/javascript' id='elementor-frontend-js-before'>
 var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.12.0","is_static":false,"experimentalFeatures":[],"urls":{"assets":"https:\/\/ewebotwp.com\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper-container","settings":{"page":[],"editorPreferences":[]},"kit":{"body_background_background":"classic","active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":91,"title":"Home%2001%20%E2%80%93%20Ewebot%20WordPress%20Theme","excerpt":"","featuredImage":false}};
 </script>
-<script type='text/javascript' src='https://ewebotwp.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.12.0' id='elementor-frontend-js'></script>
-<script type='text/javascript' src='https://ewebotwp.com/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.12.0' id='preloaded-modules-js'></script>
-<script type='text/javascript' src='https://ewebotwp.com/wp-content/plugins/gt3-themes-core/core/elementor/assets/js/core-frontend.js?ver=1.9.4' id='gt3-elementor-core-frontend-core-js'></script>
+<script type='text/javascript' src='js/frontend.min.js' id='elementor-frontend-js'></script>
+<script type='text/javascript' src='js/preloaded-modules.min.js' id='preloaded-modules-js'></script>
+<script type='text/javascript' src='js/core-frontend.js' id='gt3-elementor-core-frontend-core-js'></script>
 <script type='text/javascript' id='gt3-assets-footer-js-extra'>
 /* <![CDATA[ */
 ;window.resturl = window.resturl || "https://ewebotwp.com/wp-json/";
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://ewebotwp.com/wp-content/uploads/gt3-assets/js/footer-p_91.js?ver=1680092641' id='gt3-assets-footer-js'></script>
+<script type='text/javascript' src='js/footer-p_91.js' id='gt3-assets-footer-js'></script>
 <script id="gt3_custom_footer_js">jQuery(document).ready(function(){
 
 });</script></body>

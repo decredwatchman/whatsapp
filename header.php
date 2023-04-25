@@ -328,7 +328,7 @@
 <style id='font-awesome-inline-css' type='text/css'>
 [data-font="FontAwesome"]:before {font-family: 'FontAwesome' !important;content: attr(data-icon) !important;font-weight: normal !important;font-variant: normal !important;text-transform: none !important;line-height: 1 !important;font-style: normal !important;-webkit-font-smoothing: antialiased !important;-moz-osx-font-smoothing: grayscale !important;}
 </style>
-<link rel='stylesheet' id='berocket_aapf_widget-style-css' href='https://ewebotwp.com/wp-content/plugins/woocommerce-ajax-filters/assets/frontend/css/fullmain.min.css?ver=1.6.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='berocket_aapf_widget-style-css' href='css/fullmain.min.css' type='text/css' media='all' />
 <style id='gt3-core-elementor-core-inline-css' type='text/css'>
 .elementor-section {
     z-index: 1;
@@ -381,12 +381,12 @@ html, body {
 <link rel='stylesheet' id='wpda-elementor-core-frontend-css' href='css/frontenddd.css' type='text/css' media='all' />
 <link rel='stylesheet' id='gt3-assets-header-css' href='css/header-p_91.css' type='text/css' media='all' />
 <link rel='stylesheet' id='wp-block-library-css' href='css/style.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='wc-blocks-vendors-style-css' href='https://ewebotwp.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=9.6.6' type='text/css' media='all' />
-<link rel='stylesheet' id='wc-blocks-style-css' href='https://ewebotwp.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=9.6.6' type='text/css' media='all' />
-<link rel='stylesheet' id='jquery-selectBox-css' href='https://ewebotwp.com/wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox.css?ver=1.2.0' type='text/css' media='all' />
-<link rel='stylesheet' id='yith-wcwl-font-awesome-css' href='https://ewebotwp.com/wp-content/plugins/yith-woocommerce-wishlist/assets/css/font-awesome.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-blocks-vendors-style-css' href='css/wc-blocks-vendors-style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-blocks-style-css' href='css/wc-blocks-style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-selectBox-css' href='css/jquery.selectBox.css' type='text/css' media='all' />
+<link rel='stylesheet' id='yith-wcwl-font-awesome-css' href='css/font-awesomee.css' type='text/css' media='all' />
 <link rel='stylesheet' id='woocommerce_prettyPhoto_css-css' href='//ewebotwp.com/wp-content/plugins/woocommerce/assets/css/prettyPhoto.css?ver=3.1.6' type='text/css' media='all' />
-<link rel='stylesheet' id='yith-wcwl-main-css' href='https://ewebotwp.com/wp-content/plugins/yith-woocommerce-wishlist/assets/css/style.css?ver=3.19.0' type='text/css' media='all' />
+<link rel='stylesheet' id='yith-wcwl-main-css' href='css/stylee.css' type='text/css' media='all' />
 <style id='yith-wcwl-main-inline-css' type='text/css'>
 .yith-wcwl-share li a{color: #FFFFFF;}.yith-wcwl-share li a:hover{color: #FFFFFF;}.yith-wcwl-share a.facebook{background: #39599E; background-color: #39599E;}.yith-wcwl-share a.facebook:hover{background: #39599E; background-color: #39599E;}.yith-wcwl-share a.twitter{background: #45AFE2; background-color: #45AFE2;}.yith-wcwl-share a.twitter:hover{background: #39599E; background-color: #39599E;}.yith-wcwl-share a.pinterest{background: #AB2E31; background-color: #AB2E31;}.yith-wcwl-share a.pinterest:hover{background: #39599E; background-color: #39599E;}.yith-wcwl-share a.email{background: #FBB102; background-color: #FBB102;}.yith-wcwl-share a.email:hover{background: #39599E; background-color: #39599E;}.yith-wcwl-share a.whatsapp{background: #00A901; background-color: #00A901;}.yith-wcwl-share a.whatsapp:hover{background: #39599E; background-color: #39599E;}
 </style>
@@ -398,9 +398,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 :where(.wp-block-columns.is-layout-flex){gap: 2em;}
 .wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
 </style>
-<link rel='stylesheet' id='contact-form-7-css' href='https://ewebotwp.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css' href='css/sstyles.css' type='text/css' media='all' />
 <link rel='stylesheet' id='woocommerce-layout-css' href='https://ewebotwp.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=7.5.1' type='text/css' media='all' />
-<link rel='stylesheet' id='woocommerce-smallscreen-css' href='https://ewebotwp.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=7.5.1' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css' href='css/woocommerce-smallscreen.css' type='text/css' media='only screen and (max-width: 768px)' />
 <link rel='stylesheet' id='woocommerce-general-css' href='https://ewebotwp.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=7.5.1' type='text/css' media='all' />
 <style id='woocommerce-inline-inline-css' type='text/css'>
 .woocommerce form .form-row .required { visibility: visible; }
@@ -694,9 +694,24 @@ jQuery(document).ready(function(){
 							
 <?php
 $hostname  = "localhost";
+
+
+
+// for local machine
+
 $user     = "root";
 $pass     = "";
 $databasename = "whatsapp";
+
+
+
+// for online
+
+// $user     = "buybaelo_whatsapp";
+// $pass     = "African103!";
+// $databasename = "buybaelo_whatsapp";
+
+
 // Create connection
 $conn = mysqli_connect($hostname, $user, $pass,$databasename);
 // Check connection
@@ -704,3 +719,15 @@ if (!$conn) {
     die("Unable to Connect database: " . mysqli_connect_error());
 }
 ?>
+
+
+
+
+
+
+
+
+
+
+
+
